@@ -1,2 +1,2 @@
 # MOFHY-Lite
-Repository Moved
+This repository had been moved to https://github.com/NXTS-Developers/MOFHY-Lite/
